@@ -1,0 +1,23 @@
+{
+  "name": "widget_dashboard_starter",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.25%, not dead",
+  "scripts": {
+    "start": "parcel starter/index.html",
+    "build": "parcel build starter/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcolocat/exoWidget.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcolocat/exoWidget/issues"
+  },
+  "homepage": "https://github.com/marcolocat/exoWidget#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
